@@ -2,14 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "Cooking time": "1 hr 15 mins"
-    },
-    {
-      "id": 2,
-      "Oven degrees": "375"
-    },
-    {
-      "id": 3,
+      "Cooking time": "1 hr 15 mins",
+      "Oven degrees": "375",
       "Servings": "8"
     }
   ],
