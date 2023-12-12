@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "titl": "Post 20" },
-    { "id": 2, "title": "Post 3" },
-    { "id": 3, "title": "Post 4" }
+    { "id": 1, "Cooking time": "1 hr 15 mins },
+    { "id": 2, "Oven degrees": "375" },
+    { "id": 3, "Servings": "8" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
